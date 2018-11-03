@@ -1,0 +1,2 @@
+Hello!
+Próbálom megcsinálni a static fileokat!
